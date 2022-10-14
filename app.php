@@ -127,7 +127,32 @@
             tuvung: 'なつ',
             dich: 'Mùa hạ'
         },
+        {
+            tuvung: 'えんぴつ',
+            dich: 'Bút chì'
+        },
+        {
+            tuvung: 'えいが',
+            dich: 'Bộ phim'
+        },
+        {
+            tuvung: 'こいびと',
+            dich: 'Người yêu'
+        },
+        {
+            tuvung: 'てがみ',
+            dich: 'Bức thư'
+        },
+        {
+            tuvung: 'ぶたにく',
+            dich: 'Thịt lợn'
+        },
+        {
+            tuvung: 'だいがく',
+            dich: 'Đại học'
+        },
     ];
+
     function mouseOver(language) {
         document.getElementById('display').innerText = language;
     }
